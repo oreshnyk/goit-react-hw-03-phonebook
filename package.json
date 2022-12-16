@@ -1,5 +1,5 @@
 {
-  "name": "react-hw-02-phonebook",
+  "name": "react-hw-03-phonebook-2022",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://oreshnyk.github.io/goit-react-hw-02-phonebook/",
@@ -44,6 +44,7 @@
     "eslint": "^8.25.0",
     "gh-pages": "^4.0.0",
     "lint-staged": "^13.0.3",
+    "nanoid": "^4.0.0",
     "prettier": "^2.7.1",
     "prop-types": "^15.8.1",
     "styled-components": "^5.3.6"
